@@ -11,10 +11,6 @@ PRODUCT_PACKAGES += \
     SystemNightOverlay \
     SystemUINightOverlay
 
-# Fries
-#PRODUCT_PACKAGES += \
-#    PotatoFries
-
 # ThemePicker
 PRODUCT_PACKAGES += \
     ThemePicker \
@@ -35,7 +31,18 @@ PRODUCT_PACKAGES += \
 #    GMSOreoTiles \
 #    WellbeingOreoTiles
 
-# Turbo
+# Custom Overlays
+# Settings
+PRODUCT_PACKAGES += \
+    SystemPitchBlackOverlay \
+    SystemDarkGrayOverlay \
+    SystemUIDarkGrayOverlay \
+    SystemStyleOverlay \
+    SystemUIStyleOverlay \
+    SystemNightOverlay \
+    SystemUINightOverlay
+
+# TURBO
 PRODUCT_PACKAGES += \
     Turbo
 

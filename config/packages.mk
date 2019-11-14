@@ -9,7 +9,8 @@ PRODUCT_PACKAGES += \
     ThemePicker \
     PixelThemesStub2019 \
     MatchmakerPrebuilt \
-    WallpaperPickerGoogle
+    WallpaperPickerGoogle \
+    LatinIMEGooglePrebuilt
 
 # Custom Overlays
 # Settings

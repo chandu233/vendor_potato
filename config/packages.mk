@@ -4,6 +4,14 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
+    CustomDoze \
+    StitchImage \
+    ThemePicker \
+    PixelThemesStub2019
+
+# Custom Overlays
+# Settings
+PRODUCT_PACKAGES += \
     SystemDarkGrayOverlay \
     SystemUIDarkGrayOverlay \
     SystemStyleOverlay \

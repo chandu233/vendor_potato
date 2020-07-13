@@ -4,12 +4,10 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    SystemDarkGrayOverlay \
-    SystemUIDarkGrayOverlay \
-    SystemStyleOverlay \
-    SystemUIStyleOverlay \
-    SystemNightOverlay \
-    SystemUINightOverlay
+    CustomDoze \
+    StitchImage \
+    ThemePicker \
+    PixelThemesStub2019
 
 # ThemePicker
 PRODUCT_PACKAGES += \
@@ -24,12 +22,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     HideCutout \
     StatusBarStock
-
-# Oreo Settings Tiles Required Packages
-#PRODUCT_PACKAGES += \
-#    SettingsOreoTiles \
-#    GMSOreoTiles \
-#    WellbeingOreoTiles
 
 # Custom Overlays
 # Settings

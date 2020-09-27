@@ -5,7 +5,6 @@ PRODUCT_PACKAGES += \
 # Themes
 PRODUCT_PACKAGES += \
     CustomDoze \
-    StitchImage \
     ThemePicker \
     PixelThemesStub2019 \
     MatchmakerPrebuilt \

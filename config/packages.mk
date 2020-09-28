@@ -8,12 +8,11 @@ PRODUCT_PACKAGES += \
     ThemePicker \
     PixelThemesStub2019 \
     MatchmakerPrebuilt \
-    WallpaperPickerGoogle
+    WallpaperPickerGoogle 
 
 # ThemePicker
 PRODUCT_PACKAGES += \
-    ThemePicker \
-    PotatoThemesStub
+    OverlayStub
 
 # Charger
 PRODUCT_PACKAGES += \
@@ -47,8 +46,7 @@ PRODUCT_PACKAGES += \
 # Pixel packages
 PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
-    MarkupGoogle \
-    MatchmakerPrebuilt
+    MarkupGoogle 
 
 ifeq ($(SOUNDPICKER_10),)
 PRODUCT_PACKAGES += \
